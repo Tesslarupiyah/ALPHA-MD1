@@ -1,6 +1,6 @@
 
  {
-  "name": "ALPHA-MD",
+  "name": "Her-MD",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -13,11 +13,11 @@
   "keywords": [
     "bot",
     "Baileys",
-    "KEITH-KEIZZAH",
+    "TESLAR-R",
     "whatsapp",
     "whatsapp-bot",
-    "keithkeizzah" ],
-  "author": "keithkeizzah",
+    "TESSLARR" ],
+  "author": "TESSLAR",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
